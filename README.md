@@ -1,4 +1,4 @@
-In Collbreation with <https://github.com/salamonyfares>
+In Collbreation with [Fares Salamony](https://github.com/salamonyfares)
 # Food-101-Classification
 The Food-101 dataset consists of 101 food categories with 1000 images per 
 category  and  the  dataset  is  organized  by  the type of food, making a total of 101k images.
